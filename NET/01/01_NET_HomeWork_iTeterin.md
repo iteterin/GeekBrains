@@ -20,6 +20,15 @@ DOC RTF PKT и прочие файлы не принимаются. "Заглу�
    *02_NET_HomeWork_iTeterin.png - пруфы пинга одного хоста до другого через восстановленные узлы.*
 
    ![02_NET_HomeWork_iTeterin](D:\GitRepos\GeekBrains\NET\01\02_NET_HomeWork_iTeterin.png)
+   
+   *02_NET_HomeWork_iTeterin_02.png*
+   ![02_NET_HomeWork_iTeterin_02](D:\GitRepos\GeekBrains\NET\01\02_NET_HomeWork_iTeterin_02.png)
+   
+   *02_NET_HomeWork_iTeterin_03.png*
+   ![02_NET_HomeWork_iTeterin_03](D:\GitRepos\GeekBrains\NET\01\02_NET_HomeWork_iTeterin_03.png)
+   
+   *02_NET_HomeWork_iTeterin_04.png*
+   ![02_NET_HomeWork_iTeterin_04](D:\GitRepos\GeekBrains\NET\01\02_NET_HomeWork_iTeterin_04.png)
 
 3.* **Попробовать команды tracert yandex.ru / ping ya.ru / ipconfig на домашнем компьютере.**
 
